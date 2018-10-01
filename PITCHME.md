@@ -12,7 +12,7 @@ Shaded relief and other topographic map making challenges
 
 ---?image=img/squamish-downtown.jpg&size=contain
 ## Motivation...
-Notes:
+Note:
  - Working with friend who has a publishing company and wants to revamp a topo map and hiking guide of the local area that they had made previously.
  - Make a topo map of Squamish from scratch on a limited budget.
  - Squamish in the background - mountainous terrain
