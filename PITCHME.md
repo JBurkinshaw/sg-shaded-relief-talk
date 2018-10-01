@@ -26,16 +26,14 @@ Note:
 - National mapping agency in UK
 - Always like the level of detail on the map and the ability of the contours to really highlight the terrain
 
----?image=img/OS-Islay.png&size=contain
+---?image=img/clarke-garibaldi.jpg&size=contain
 @snap[north]
-### Inspiration
 Clarke Geomatics
 @snapend
 
 ---?image=img/bulkley-valley.jpg&size=contain
 @snap[north]
-### Inspiration
-"Wandering Cartographer" - Bulkley Valley, BC
+Wandering Cartographer - Bulkley Valley, BC
 [https://wanderingcartographer.wordpress.com/](https://wanderingcartographer.wordpress.com/)
 @snapend
 
