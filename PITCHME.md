@@ -13,3 +13,5 @@ Shaded relief and other challenges when making a topographic map
 ---
 
 ![Test Image](img/4-render-25pct.jpg)
+
+---?image=img/4-render-25pct.jpg&size=contain
