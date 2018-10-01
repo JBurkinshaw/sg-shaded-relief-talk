@@ -69,12 +69,20 @@ SRTM
 ![SRTM](img/original-srtm.jpg)
 </div>
 
----?image=img/4-render-25pct.jpg&size=contain
-@snap[north]
+Note:
+- Shuttle Radar Topography Mission.
+- Advanced Spaceborne Thermal Emission and Reflection Radiometer
 
-Blender image
+---?image=img/original-srtm-zoomed.png&size=contain
+### SRTM
 
-@snapend
+---?image=img/original-srtm-zoomed.png&size=contain&opacity=40
+<h3>SRTM</h3>
+@ul
+- OSM
+- Personal GPS traces
+- Elevation Data - SRTM vs ASTER
+@ulend
 
 ---?image=img/4-render-25pct.jpg&size=contain&position=left
 @snap[north]
