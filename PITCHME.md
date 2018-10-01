@@ -1,6 +1,6 @@
 # A Shady Business
 
-Shaded relief and other challenges topographic map making challenges
+Shaded relief and other topographic map making challenges
 
 ---
 
@@ -9,6 +9,10 @@ Shaded relief and other challenges topographic map making challenges
 - Point 1
 - Point 2
 - Point 3
+
+---?image=img/squamish-downtown.jpg&size=contain
+## Motivation...
+
 
 ---?image=img/4-render-25pct.jpg&size=contain
 @snap[north]
