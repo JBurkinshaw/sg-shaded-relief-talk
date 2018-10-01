@@ -30,6 +30,7 @@ Note:
 @snap[north]
 
 ### Inspiration
+
 Clarke Geomatics
 
 @snapend
@@ -39,6 +40,7 @@ Clarke Geomatics
 @snap[north]
 
 ### Inspiration
+
 "Wandering Cartographer" - Bulkley Valley, BC
 [https://wanderingcartographer.wordpress.com/](https://wanderingcartographer.wordpress.com/)
 
