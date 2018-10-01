@@ -11,4 +11,6 @@ Shaded relief and other challenges topographic map making challenges
 - Point 3
 
 ---?image=img/4-render-25pct.jpg&size=contain
+@snap[north]
 #### Blender image
+@snapend
