@@ -10,9 +10,7 @@ Shaded relief and other challenges topographic map making challenges
 - Point 2
 - Point 3
 
----
-
----?image=img/4-render-25pct.jpg @title[img1]
+---?image=img/4-render-25pct.jpg
 @snap[south]
 A caption
 @snapend
