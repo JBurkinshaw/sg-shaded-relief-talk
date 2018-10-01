@@ -24,11 +24,11 @@ Note:
 - National mapping agency in UK
 - Always like the level of detail on the map and the ability of the contours to really highlight the terrain
 
----?image=img/clarke-garibaldi.png&size=contain
+---?image=img/clarke-garibaldi.jpg&size=contain
 ### Inspiration
 Clarke Geomatics
 
----?image=img/bulkley-valley.png&size=contain
+---?image=img/bulkley-valley.jpg&size=contain
 ### Inspiration
 "Wandering Cartographer" - Bulkley Valley, BC
 [https://wanderingcartographer.wordpress.com/](https://wanderingcartographer.wordpress.com/)
