@@ -28,13 +28,44 @@ Note:
 
 ---?image=img/clarke-garibaldi.jpg&size=contain
 @snap[north]
+<h3>Inspiration</h3>
 Clarke Geomatics
 @snapend
 
 ---?image=img/bulkley-valley.jpg&size=contain
 @snap[north]
-Wandering Cartographer - Bulkley Valley, BC
+<h3>Inspiration</h3>
+"Wandering Cartographer" - Bulkley Valley, BC
 [https://wanderingcartographer.wordpress.com/](https://wanderingcartographer.wordpress.com/)
+@snapend
+
+---
+
+## Data
+@ul
+- OSM
+- Personal GPS traces
+- Elevation Data - SRTM vs ASTER
+@ulend
+
+Note:
+- OSM for majority of vector data
+- Supplemented with some GPS traces from personal trips
+- Elevation data needed to be freely available
+---
+
+@snap[north]
+## Elevation Data
+@snapend
+
+@snap[west]
+ASTER
+![ASTER](img/original-aster.png)
+@snapend
+
+@snap[east]
+SRTM
+![SRTM](img/original-srtm.jpg)
 @snapend
 
 ---?image=img/4-render-25pct.jpg&size=contain
