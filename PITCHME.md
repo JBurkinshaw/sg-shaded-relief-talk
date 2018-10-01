@@ -60,12 +60,12 @@ Note:
 
 @snap[west]
 ASTER
-![ASTER](img/original-aster.png)
+![ASTER](img/original-aster.png&size=50%)
 @snapend
 
 @snap[east]
 SRTM
-![SRTM](img/original-srtm.jpg)
+![SRTM](img/original-srtm.jpg&size=50%)
 @snapend
 
 ---?image=img/4-render-25pct.jpg&size=contain
