@@ -31,19 +31,24 @@ Note:
 
 ### Inspiration
 Clarke Geomatics
+
 @snapend
 
 
 ---?image=img/bulkley-valley.jpg&size=contain
 @snap[north]
+
 ### Inspiration
 "Wandering Cartographer" - Bulkley Valley, BC
 [https://wanderingcartographer.wordpress.com/](https://wanderingcartographer.wordpress.com/)
+
 @snapend
 
 ---?image=img/4-render-25pct.jpg&size=contain
 @snap[north]
+
 Blender image
+
 @snapend
 
 ---?image=img/4-render-25pct.jpg&size=contain&position=left
