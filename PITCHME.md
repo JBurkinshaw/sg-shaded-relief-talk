@@ -11,9 +11,8 @@ Shaded relief and other challenges topographic map making challenges
 - Point 3
 
 ---
-@snap[north-west]
----?image=img/4-render-25pct.jpg&size=auto 100% @title[img1]
-@snapend
-@snap[north-east]
----?image=img/4-render-25pct.jpg&size=auto 100%&position=right @title[img2]
+
+---?image=img/4-render-25pct.jpg @title[img1]
+@snap[south]
+A caption
 @snapend
