@@ -58,15 +58,16 @@ Note:
 ## Elevation Data
 @snapend
 
-@snap[west]
+<div class="left">
 ASTER
 ![ASTER](img/original-aster.png&size=50%)
 @snapend
+</div>
 
-@snap[east]
+<div class="right">
 SRTM
 ![SRTM](img/original-srtm.jpg&size=50%)
-@snapend
+</div>
 
 ---?image=img/4-render-25pct.jpg&size=contain
 @snap[north]
