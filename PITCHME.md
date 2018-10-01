@@ -55,18 +55,18 @@ Note:
 ---
 
 @snap[north]
-## Elevation Data
+<h2>Elevation Data</h2>
 @snapend
 
 <div class="left">
 ASTER
-![ASTER](img/original-aster.png&size=50%)
+![ASTER](img/original-aster.png)
 @snapend
 </div>
 
 <div class="right">
 SRTM
-![SRTM](img/original-srtm.jpg&size=50%)
+![SRTM](img/original-srtm.jpg)
 </div>
 
 ---?image=img/4-render-25pct.jpg&size=contain
