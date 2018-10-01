@@ -12,15 +12,5 @@ Shaded relief and other challenges topographic map making challenges
 
 ---
 
-<div class="left">
-![Test Image](img/4-render-25pct.jpg)
-Some text
-</div>
-
-<div class="right">
-![Test Image](img/4-render-25pct.jpg)
-Some more text
-</div>
----
-
----?image=img/4-render-25pct.jpg&size=contain
+---?image=img/4-render-25pct.jpg&size=auto 50%
+---?image=img/4-render-25pct.jpg&size=auto 50%&position=right
