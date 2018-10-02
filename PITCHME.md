@@ -76,6 +76,48 @@ Note:
 ---?image=img/original-srtm-zoomed.png&size=contain
 ### SRTM
 
+---
+
+<iframe class="stretch" data-src="https://mapzen.com/documentation/terrain-tiles/"></iframe>
+@title[Mapzen]
+Could have gone to
+NextZen elevation tiles
+
+Terrain Sculptor
+- v memory hungry - I had it maxing out this 16gb macbook pro to get it done.
+- Mention
+
+Add as as multiplier beneath forest cover
+
+Not great... Daniel P huffman
+
+Highlights/lowlights
+- Show examples
+- Show QGIS UI screenshot
+
+Texture
+- Explain what it is
+
+Still didn't look great so I added texture as well
+
+Saw a tutorial by Daniel Huffman on creating shaded relief in Blender
+
+Explain what blender is
+Didn't get results that were very useful - issues with producing a georeferenced output and it didn't look great anyway (explain some of wandering cartographer's issues)
+
+James posted an article by the "Wandering Cartographer" which I thought was much more useful - it uses a plugin for blender called Blender GIS and gives more tips on tweaking the output.
+What did I find created a good result? - Increasing Z factor to x?
+
+(compare to original SRTM/gdal hillshade)
+
+Replaced original hillshade in map with blender one for highlights/lowlights
+
+Eventually switched to an elevation ramp/gradient
+
+Try Imhof
+
+
+
 ---?image=img/original-srtm-zoomed.png&size=contain&opacity=40
 <h3>SRTM</h3>
 @ul
