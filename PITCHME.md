@@ -75,8 +75,7 @@ Note:
 
 ### Initial GDAL Output
 <div class="right">
-SRTM
-![SRTM](img/original-srtm.jpg)
+![Original](img/original-srtm.jpg)
 </div>
 <div class="left">
 @ul
@@ -86,9 +85,16 @@ SRTM
 @ulend
 </div>
 
+Note:
+- For scale, that area is about 37km from top to bottom
 
 ---?image=img/original-srtm-zoomed.png&size=contain
+@snap[north]
 #### A closer look
+@snapend
+
+Note:
+- Chief is about 2km long
 
 ---
 Terrain Sculptor
