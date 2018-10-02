@@ -71,7 +71,7 @@ Note:
 - Could have gone to NASA Earth Explorer to get individual DEM files which are divided up arbitrarily and then mozaiced them back together
 - MapZen elevation tiles NextZen elevation tiles
 
----?image=img/original-srtm.jpg&size=contain
+---
 
 ### Initial GDAL Output
 <div class="right">
@@ -90,7 +90,7 @@ Note:
 
 ---?image=img/original-srtm-zoomed.png&size=contain
 @snap[north]
-#### A closer look
+<h4>A closer look</h4>
 @snapend
 
 Note:
