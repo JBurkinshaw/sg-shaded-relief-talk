@@ -45,28 +45,23 @@ Clarke Geomatics
 @ul
 - OSM
 - Personal GPS traces
-- Elevation Data - SRTM vs ASTER
+- Elevation Data - SRTM, ASTER, other sources
 @ulend
 
 Note:
 - OSM for majority of vector data
 - Supplemented with some GPS traces from personal trips
 - Elevation data needed to be freely available (to create contours and shaded relief)
-
-Note:
 - According to wikipedia: Shaded relief (aka hill-shading) shows the shape of the terrain in a realistic fashion by showing how the three-dimensional surface would be illuminated from a point light source
-
----?image=img/original-aster.png&size=contain
-@title(Elevation Data)
-@snap[north]
-<h2>Elevation Data</h2>
-SRTM, Aster etc...
-@snapend
-Note:
-- This example is aster
 - Shuttle Radar Topography Mission.
 - Advanced Spaceborne Thermal Emission and Reflection Radiometer
 
+---?image=img/original-aster.png&size=contain
+@snap[north]
+<h2 class="txt-white">Elevation Data</h2>
+@snapend
+Note:
+- This example is aster. Not great results initially - too rough
 ---
 
 <iframe onload="this.width=screen.width;this.height=screen.height;" data-src="https://mapzen.com/documentation/terrain-tiles/"></iframe>
@@ -77,14 +72,19 @@ Note:
 - MapZen elevation tiles NextZen elevation tiles
 
 ---?image=img/original-srtm.jpg&size=contain
+
 ### Initial GDAL Output
+<div class="right">
+SRTM
+![SRTM](img/original-srtm.jpg)
+</div>
+<div class="left">
 @ul
+- `gdaldem hillshade input.tif output_hillshade.tif -of GTiff -az 260.0 -alt 25.0`
 - `combined` flag: a combination of slope and oblique shading
 - `multidirectional` flag: a combination of hillshading illuminated from 225 deg, 270 deg, 315 deg, and 360 deg azimuth
 @ulend
-@snap[south]
-`gdaldem hillshade input.tif output_hillshade.tif -of GTiff -az 260.0 -alt 25.0`
-@snapend
+</div>
 
 
 ---?image=img/original-srtm-zoomed.png&size=contain
