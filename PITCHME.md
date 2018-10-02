@@ -51,30 +51,21 @@ Clarke Geomatics
 Note:
 - OSM for majority of vector data
 - Supplemented with some GPS traces from personal trips
-- Elevation data needed to be freely available
----
-
-@snap[north]
-<h2>Elevation Data</h2>
-@snapend
-
-<div class="left">
-ASTER
-![ASTER](img/original-aster.png)
-@snapend
-</div>
-
-<div class="right">
-SRTM
-![SRTM](img/original-srtm.jpg)
-</div>
+- Elevation data needed to be freely available (to create contours and shaded relief)
 
 Note:
+- According to wikipedia: Shaded relief (aka hill-shading) shows the shape of the terrain in a realistic fashion by showing how the three-dimensional surface would be illuminated from a point light source
+
+---?image=img/original-aster.png&size=contain
+@title(Elevation Data)
+@snap[north]
+<h2>Elevation Data</h2>
+SRTM, Aster etc...
+@snapend
+Note:
+- This example is aster
 - Shuttle Radar Topography Mission.
 - Advanced Spaceborne Thermal Emission and Reflection Radiometer
-
----?image=img/original-srtm-zoomed.png&size=contain
-### SRTM
 
 ---
 
@@ -84,6 +75,20 @@ Note:
 Note:
 - Could have gone to NASA Earth Explorer to get individual DEM files which are divided up arbitrarily and then mozaiced them back together
 - MapZen elevation tiles NextZen elevation tiles
+
+---?image=img/original-srtm.jpg&size=contain
+### Initial GDAL Output
+@ul
+- `combined` flag: a combination of slope and oblique shading
+- `multidirectional` flag: a combination of hillshading illuminated from 225 deg, 270 deg, 315 deg, and 360 deg azimuth
+@ulend
+@snap[south]
+`gdaldem hillshade input.tif output_hillshade.tif -of GTiff -az 260.0 -alt 25.0`
+@snapend
+
+
+---?image=img/original-srtm-zoomed.png&size=contain
+#### A closer look
 
 ---
 Terrain Sculptor
@@ -121,15 +126,17 @@ Try Imhof
 
 
 
----?image=img/original-srtm-zoomed.png&size=contain&opacity=40
-<h3>SRTM</h3>
-@ul
-- OSM
-- Personal GPS traces
-- Elevation Data - SRTM vs ASTER
-@ulend
-
----?image=img/4-render-25pct.jpg&size=contain&position=left
 @snap[north]
-Blender image
+<h2>Elevation Data</h2>
 @snapend
+
+<div class="left">
+ASTER
+![ASTER](img/original-aster.png)
+@snapend
+</div>
+
+<div class="right">
+SRTM
+![SRTM](img/original-srtm.jpg)
+</div>
