@@ -78,11 +78,14 @@ Note:
 
 ---
 
-<iframe class="stretch" data-src="https://mapzen.com/documentation/terrain-tiles/"></iframe>
+<iframe onload="this.width=screen.width;this.height=screen.height;" data-src="https://mapzen.com/documentation/terrain-tiles/"></iframe>
 @title[Mapzen]
-Could have gone to
-NextZen elevation tiles
 
+Note:
+- Could have gone to NASA Earth Explorer to get individual DEM files which are divided up arbitrarily and then mozaiced them back together
+- MapZen elevation tiles NextZen elevation tiles
+
+---
 Terrain Sculptor
 - v memory hungry - I had it maxing out this 16gb macbook pro to get it done.
 - Mention
