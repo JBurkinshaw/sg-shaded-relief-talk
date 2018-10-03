@@ -45,18 +45,24 @@ Clarke Geomatics
 @ul
 - OSM
 - Personal GPS traces
-- Elevation Data - SRTM, ASTER, other sources
+- Elevation Data - contours + shaded relief
+    - SRTM, ASTER, other sources
 @ulend
 
 Note:
 - OSM for majority of vector data
 - Supplemented with some GPS traces from personal trips
 - Elevation data needed to be freely available (to create contours and shaded relief)
-- According to wikipedia: Shaded relief (aka hill-shading) shows the shape of the terrain in a realistic fashion by showing how the three-dimensional surface would be illuminated from a point light source
 - Shuttle Radar Topography Mission.
 - Advanced Spaceborne Thermal Emission and Reflection Radiometer
 
----?image=img/original-aster.png&size=contain
+---
+## Shaded Relief
+
+Note:
+- According to wikipedia: Shaded relief (aka hill-shading) shows the shape of the terrain in a realistic fashion by showing how the three-dimensional surface would be illuminated from a point light source
+
+---?image=img/original-aster.png&size=75%
 @snap[north]
 <h2 class="txt-white">Elevation Data</h2>
 @snapend
