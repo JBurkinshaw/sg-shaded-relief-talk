@@ -57,7 +57,22 @@ Note:
 - Advanced Spaceborne Thermal Emission and Reflection Radiometer
 
 ---
+@snap[north]
 ## Shaded Relief
+@snapend
+<div class="left">
+![Original](img/grisons.jpg)
+</div>
+<div class="right">
+![Original](img/mteverest.jpg)
+</div>
+@snap[south-west]
+@size[3.5em](School wall map 1:100,000 and school map 1:250,000 “Graubünden” (Canton of Grisons) (Ticino section) by Eduard Imhof and Heinz Leuzinger 1963.)
+@snapend
+@snap[south-east]
+@size[3.5em](“Mount Everest” (section) © National Geographic Society, original scale 1:50,000 (size 60 x 93 cm), 1988.)
+@snapend
+
 
 Note:
 - According to wikipedia: Shaded relief (aka hill-shading) shows the shape of the terrain in a realistic fashion by showing how the three-dimensional surface would be illuminated from a point light source
@@ -65,7 +80,6 @@ Note:
 ---?image=img/original-aster.png&position=left&size=60% auto
 @snap[east]
 <h4>Elevation Data</h4>
-e.g. ASTER
 @snapend
 Note:
 - This example is aster. Not great results initially - too rough
