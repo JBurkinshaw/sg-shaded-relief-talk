@@ -61,10 +61,10 @@ Note:
 <h3>Shaded Relief</h3>
 @snapend
 <div class="left">
-  ![Grisons](img/grisons.jpg)
+![Grisons](img/grisons.jpg)
 </div>
 <div class="right">
-  ![MtEverest](img/mteverest.jpg)
+![MtEverest](img/mteverest.jpg)
 </div>
 @snap[south]
 @size[0.3em](Left: School wall map 1:100,000 and school map 1:250,000 “Graubünden” [Canton of Grisons] [Ticino section] by Eduard Imhof and Heinz Leuzinger 1963.)
