@@ -61,15 +61,13 @@ Note:
 <h3>Shaded Relief</h3>
 @snapend
 <div class="left">
+@size[0.3em](Left: School wall map 1:100,000 and school map 1:250,000 “Graubünden” [Canton of Grisons] [Ticino section] by Eduard Imhof and Heinz Leuzinger 1963.)
 ![Grisons](img/grisons.jpg)
 </div>
 <div class="right">
+@size[0.3em](Right: “Mount Everest” [section] © National Geographic Society, original scale 1:50,000 [size 60 x 93 cm], 1988.)
 ![MtEverest](img/mteverest.jpg)
 </div>
-@snap[south]
-@size[0.3em](Left: School wall map 1:100,000 and school map 1:250,000 “Graubünden” [Canton of Grisons] [Ticino section] by Eduard Imhof and Heinz Leuzinger 1963.)
-@size[0.3em](Right: “Mount Everest” [section] © National Geographic Society, original scale 1:50,000 [size 60 x 93 cm], 1988.)
-@snapend
 
 
 Note:
