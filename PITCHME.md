@@ -57,7 +57,7 @@ Note:
 - Advanced Spaceborne Thermal Emission and Reflection Radiometer
 
 ---
----?image=img/img/grisons.jpg&position=left
+---?image=img/grisons.jpg&position=left
 @snap[east]
 <h3>Shaded Relief</h3>
 @size[0.5em](Left: School wall map 1:100,000 and school map 1:250,000 “Graubünden” [Canton of Grisons] [Ticino section] by Eduard Imhof and Heinz Leuzinger 1963.)
