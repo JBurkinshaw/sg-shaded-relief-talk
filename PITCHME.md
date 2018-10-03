@@ -62,7 +62,7 @@ Note:
 Note:
 - According to wikipedia: Shaded relief (aka hill-shading) shows the shape of the terrain in a realistic fashion by showing how the three-dimensional surface would be illuminated from a point light source
 
----?image=img/original-aster.png&position=left&size=75% auto
+---?image=img/original-aster.png&position=left&size=60% auto
 @snap[east]
 <h4>Elevation Data</h4>
 e.g. ASTER
